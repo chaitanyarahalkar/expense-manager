@@ -15,7 +15,7 @@
     "manifest.json",
     "images/default-receipt.png"
   ],
-  "autoBasePath": true,
+  "autoBasePath": false,
   "builds": [
     {
       "name": "es5-bundled",
